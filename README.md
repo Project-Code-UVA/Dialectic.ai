@@ -2,3 +2,4 @@
 
 ## Contributors
 - Hani Moudarres
+- Michael Zhang
